@@ -1,0 +1,13 @@
+{
+  "name": "com.mickwadev.tictactoe",
+  "version": "1.0.0",
+  "displayName": "Tic tac toe",
+  "description": "Package with tic tac toe game assets",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Mickwadev",
+    "email": "mickwadev@gmail.com",
+    "url": "http://kitku.io"
+  }
+}
